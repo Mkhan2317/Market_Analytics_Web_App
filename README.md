@@ -14,9 +14,6 @@ This project is a Streamlit web application for analyzing stock data using techn
   - **Relative Strength Index (RSI)**
 - **Interactive Interface**: Use Streamlit's interactive widgets to select tickers, date ranges, and indicators.
 
-## Files
-
-- **`Stock_Data_Analysis.py`**: Contains the core functionality for fetching S&P 500 components and applying technical analysis indicators.
 
 
 ## Requirements
