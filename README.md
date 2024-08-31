@@ -16,7 +16,7 @@ This project is a Streamlit web application for analyzing stock data using techn
 
 ## Files
 
-- **`stock_analysis.py`**: Contains the core functionality for fetching S&P 500 components and applying technical analysis indicators.
+- **`Stock_Data_Analysis.py`**: Contains the core functionality for fetching S&P 500 components and applying technical analysis indicators.
 
 
 ## Requirements
